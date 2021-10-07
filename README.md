@@ -1,9 +1,8 @@
 ## Prazer! Sou Nathan Motoki
 
-- 🔭 Atualmente trabalho com Front-End
-- 🌱 Estudando React
-- 📫 Entre em contato: nathanmtoki@gmail.com
-- 😄 Pronouns: ele/dele
+# Entusiasta Front-End
+# Próximo Passo React
+# nathanmtoki@gmail.com
 
 <div align="center">
   <a href="https://github.com/NathanMotok">
