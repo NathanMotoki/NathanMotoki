@@ -1,8 +1,8 @@
 ## Prazer! Sou Nathan Motoki
 
-# Entusiasta Front-End
-# Próximo Passo React
-# nathanmtoki@gmail.com
+#### Entusiasta Front-End
+#### Próximo Passo React
+#### nathanmtoki@gmail.com
 
 <div align="center">
   <a href="https://github.com/NathanMotok">
