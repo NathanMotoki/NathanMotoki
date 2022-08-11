@@ -1,6 +1,6 @@
 <h1>Prazer! Sou Nathan Motoki<h1>
 
-<h5>🚀 Entusiasta em tecnologia e em novos conhecimentos<h5>
+<h5>🚀🚀🚀 Entusiasta em tecnologia e em novos conhecimentos 🚀🚀🚀<h5>
 
 <div align="center">
   <a href="https://github.com/NathanMotoki">
