@@ -31,6 +31,20 @@
   <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white">
 </div>
 
+---
+
+## 🚀 Projetos em Destaque / Featured Projects
+
+<div align="center">
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [🏦 FlowPay Atendimento](https://github.com/NathanMotoki/flowpay-atendimento) | Sistema enterprise de distribuição inteligente de atendimentos com filas FIFO, balanceamento de carga e 25+ testes unitários | Java 17 · Spring Boot · React · TypeScript · PostgreSQL · Docker |
+| [📚 Biblioteca Online](https://github.com/NathanMotoki/biblioteca-online) | Plataforma completa de gerenciamento de biblioteca com sistema de empréstimos e integração com Google Books API | Java · Spring Boot · React · TypeScript · PostgreSQL |
+| [⚔️ Star Wars API](https://github.com/NathanMotoki/StarWarsAPI) | API REST do universo Star Wars desenvolvida para explorar C# e .NET | C# · .NET |
+| [🌦️ Clima Tempo](https://github.com/NathanMotoki/climaTempo) | App climático com dados em tempo real por cidade, integrando OpenWeatherMap e Flags API · [🔗 Demo](https://nathanmotoki.github.io/climaTempo/) | JavaScript · HTML · CSS |
+
+</div>
 
 ---
 
